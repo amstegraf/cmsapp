@@ -6,6 +6,7 @@ export class URIProvider {
     static readonly USERS = "users";
     static readonly PAGES ="pages";
     static readonly LOGIN ="login";
+    static readonly LOGOUT ="logout";
     
     
     
