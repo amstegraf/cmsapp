@@ -1,0 +1,10 @@
+/*Custom same colors as the nav*/
+.main-color-bg{
+    background-color: #191b1e !important;
+    border-color: #000000 !important;
+    color:#ffffff !important;
+  }
+
+  .dash-box{
+    text-align: center;
+  }

@@ -1,0 +1,23 @@
+/*Custom same colors as the nav*/
+.main-color-bg{
+    background-color: #191b1e !important;
+    border-color: #000000 !important;
+    color:#ffffff !important;
+  }
+
+  .progress-bar{
+    background:#333333;
+    color:#ffffff;
+  }
+
+  .btn{
+    background-color:  #333333;
+    color: #F5F5F5;
+    border-color: #F5F5F5;
+  }
+  
+  .btn:focus{
+    outline: none;
+  }
+
+  
